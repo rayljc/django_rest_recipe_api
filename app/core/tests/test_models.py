@@ -26,3 +26,4 @@ class ModelTest(TestCase):
         )
 
         self.assertEqual(user.email, email.lower())
+
